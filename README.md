@@ -43,6 +43,11 @@ To change the theme, right-click anywhere in the preview.
 - The preview is not restored after VS Code restarts. Just open it again.
 - Mermaid diagrams and math are not supported yet.
 
+## Feedback
+
+Found a bug or have an idea? Open an issue on this repo, or reach us at [hello@quodepalette.com](mailto:hello@quodepalette.com).
+
 ## License
 
-MIT. See the LICENSE file.
+Released under the [PolyForm Noncommercial License 1.0.0](LICENSE). You are free to use, modify and share it for personal, educational and other noncommercial purposes. For commercial use, please get in touch.
+[Email Us](mailto:hello@quodepalette.com)
